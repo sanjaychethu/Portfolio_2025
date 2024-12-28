@@ -139,8 +139,8 @@ const Hero = () => {
           src="src/assets/company/logo1.png"
           alt="Profile"
           style={{
-            width: "8rem", // Reduced profile image size
-            height: "8rem",
+            width: "10rem", // Reduced profile image size
+            height: "10rem",
             borderRadius: "50%",
             border: "4px solid #ffffff",
             boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.2)",
