@@ -136,7 +136,7 @@ const Hero = () => {
       {/* Profile Image */}
       <div style={{ marginTop: "3rem", display: "flex", justifyContent: "center" }}>
         <img
-          src="src/assets/company/logo1.png"
+          src="./company/logo1.png"
           alt="Profile"
           style={{
             width: "8rem", // Reduced profile image size
