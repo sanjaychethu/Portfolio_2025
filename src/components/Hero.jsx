@@ -161,9 +161,7 @@ const Hero = () => {
           zIndex: 1,
         }}
       >
-        <p style={{ fontSize: "0.875rem" }}>
-          © {new Date().getFullYear()} Sanjay | Built with 💻 and ❤️
-        </p>
+       
       </div>
 
       {/* Keyframes for Star Animation */}
